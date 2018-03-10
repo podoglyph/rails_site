@@ -2,7 +2,7 @@
 
 ![travis_status](https://travis-ci.org/podoglyph/rails_site.svg?branch=master)
 
-A blog.
+A blog. Visit production here: [https://padraic-website.herokuapp.com/]
 
 This app is built with:
 
